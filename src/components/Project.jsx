@@ -2,11 +2,11 @@ import React from "react";
 import { projects } from "../data/data";
 
 const ProjectCard = ({ item }) => (
-  <div className="flex flex-col gap-2 hover:bg-white p-4 flex-1">
+  <div className="flex flex-col gap-2 hover:bg-white p-4 flex-1 rounded-md">
     <img src={item.image} className="h-[250px] object-cover mx-auto" />
     <h3 className="font-bold text-xl">{item.title}</h3>
     <p>{item.description}</p>
-    <div className="mt-2">
+    <div className="mt-auto border">
       {item.gitUrl && (
         <a
           href={item.gitUrl}

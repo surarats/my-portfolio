@@ -6,7 +6,7 @@ const ProjectCard = ({ item }) => (
     <img src={item.image} className="h-[250px] object-cover mx-auto" />
     <h3 className="font-bold text-xl">{item.title}</h3>
     <p>{item.description}</p>
-    <div className="mt-auto border">
+    <div className="mt-auto">
       {item.gitUrl && (
         <a
           href={item.gitUrl}

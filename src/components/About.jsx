@@ -21,7 +21,8 @@ function About() {
         <div className="flex justify-center items-center gap-1 pt-6">
           <a
             className="text-xl text-white bg-gray-700 rounded-md p-2 hover:bg-cyan-500"
-            href=""
+            href="https://linkedin.com/in/surarat-supimarost-60219528b"
+            target="_blank"
           >
             <i className="ri-linkedin-box-line"></i>
           </a>

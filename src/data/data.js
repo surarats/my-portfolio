@@ -45,7 +45,7 @@ export const projects = [
     webUrl: "https://wdb-project.vercel.app/",
   },
   {
-    title: "TO Do List Web ",
+    title: "To Do List Web ",
     image: "/images/project-3.png",
     description:
       "A frontend project for track all your task, developed using React, TypeScript, Tailwind and MUI.",

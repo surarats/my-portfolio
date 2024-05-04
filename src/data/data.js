@@ -38,10 +38,18 @@ export const projects = [
   },
   {
     title: "Clothing Shop Web",
-    image: "/images/project-3.png",
+    image: "/images/project-2.png",
     description:
       "This is a team project from Skooldio bootcamp. It is a frontend project developed according to the designer’s specifications and must be developed to support multiple screen sizes, developed using React, Tailwind and data from Skooldio's API.",
     gitUrl: "",
     webUrl: "https://wdb-project.vercel.app/",
+  },
+  {
+    title: "TO Do List Web ",
+    image: "/images/project-3.png",
+    description:
+      "A frontend project for track all your task, developed using React, TypeScript, Tailwind and MUI.",
+    gitUrl: "https://github.com/surarats/to-do-list-project",
+    webUrl: "https://to-do-list-project-khaki.vercel.app/",
   },
 ];

@@ -35,7 +35,7 @@ function About() {
           </a>
           <a
             className="text-xl text-white bg-gray-700 rounded-md p-2 hover:bg-cyan-500"
-            href="https://drive.google.com/file/d/1oKZOCs6CmdO_uR10Za7HReahis0khL6h/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1HQWz1UJYqnWTlLYQ9PN3_-QjQEJZm8Df/view?usp=drive_link"
             target="_blank"
           >
             Resume
